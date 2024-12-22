@@ -5,9 +5,10 @@ Senior Software Engineer
 ---------------------------------
 
 *   🌍  I'm based in Italy 🇮🇹
-*   🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/mario-baldi-1bb75077/)
-*   ✉️  You can contact me at [mariobaldi.py@gmail.com](mailto:mariobaldi.py@gmail.com)
-*   🧠  I'm learning Rust 🦀
+*   🖥️  See my personal [github powered cms blog](https://baldimario.github.io) hosted on github.io
+*   🖥️  or my linkedin [Linkedin](http://www.linkedin.com/in/mario-baldi-1bb75077/) profile
+*   ✉️  You can contact me at [mariobaldi -dot- py -at- gmail.com](mailto:mariobaldi.py@gmail.com)
+*   🧠  Lifelong/Continuous learner
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  Open to conversations about tech, ideas, or just some fun, let’s connect!
 <!-- *   🚀  I'm currently working on [Side Projects](http://sideprojects) -->
