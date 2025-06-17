@@ -3,7 +3,7 @@
 ### 🧠 Software Engineer · Public Builder · Open Source Thinker
 ---------------------------------
 
-I don’t just write code—I ship real tools that solve real problems.  
+I don’t just write code. I ship real tools that solve real problems.  
 Fast. Clean. With intuition that AI can’t replicate.
 
 I believe in building in public, learning in the open, and sharing everything that works.  
