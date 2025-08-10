@@ -25,7 +25,7 @@ Not just open source code, but open-minded development.
 ### 🔗 Connect
 
 - 🖥️ Blog (GitHub Pages): [https://mariobaldi.dev](htps://mariobaldi.dev)
-- 💼 LinkedIn: [https://www.linkedin.com/in/mario-baldi-1bb75077/](https://www.linkedin.com/in/mario-baldi-1bb75077/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/exitcode0/](https://www.linkedin.com/in/exitcode0/)
 - 📫 Email: `mariobaldi.py[at]gmail[dot]com`
 
 
